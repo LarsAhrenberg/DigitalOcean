@@ -1,3 +1,3 @@
 # DigitalOcean
 This is a repository to play around with texts to create various forms of language data
-There is nothing in it as yet.
+The first project to be moved here is my project on learning transformers with Hugging Face.
